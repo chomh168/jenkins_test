@@ -1,7 +1,7 @@
 import time
 
 start = time.time()
-while True:
+while True
 
     term = time.time() - start
     if term>9:
