@@ -12,7 +12,7 @@ from setuptools import setup, find_packages
 
 setup(name='test',
 
-      version='0.4',
+      version='0.5',
 
       url='https://github.com/chomh168/jenkins_test.git',
 
